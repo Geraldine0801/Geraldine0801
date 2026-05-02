@@ -1,5 +1,5 @@
 ## Hi, I'm Geraldine👋
-Aspiring UX/UI designer * Self-Taught Front End Learner
+Aspiring UX/UI designer - Self-Taught Front End Learner
 
 My goal is to combine my interest for music, concerts, and UX/UI and create a one of kind experience for fans.
 

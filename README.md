@@ -1,5 +1,23 @@
-## Hi there 👋
-My name is Julissa
+## Hi, I'm Geraldine👋
+Aspiring UX/UI designer * Self-Taught Front End Learner
+
+My goal is to combine my interest for music, concerts, and UX/UI and create a one of kind experience for fans.
+
+##About Me
+- I enjoy attending concerts
+-Love a good book - Pachinko
+-Into anime - Hunter x Hunter is a favorite
+
+##Currently Learning
+- HTML
+- CSS
+- UX/ UI Principles
+
+##Tools/ Skills
+- Figma
+- Canva
+- Procreate
+- VS Code
 <!--
 **Geraldine0801/Geraldine0801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

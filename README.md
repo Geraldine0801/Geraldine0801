@@ -5,8 +5,8 @@ My goal is to combine my interest for music, concerts, and UX/UI and create a on
 
 ##About Me
 - I enjoy attending concerts
--Love a good book - Pachinko
--Into anime - Hunter x Hunter is a favorite
+- Love a good book - Pachinko
+- Into anime - Hunter x Hunter is a favorite
 
 ##Currently Learning
 - HTML
